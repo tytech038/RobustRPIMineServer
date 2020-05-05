@@ -1,3 +1,4 @@
+apt-get install -y cowsay
 curl -o BuildTools.jar https://hub.spigotmc.org/jenkins/job/BuildTools/lastSuccessfulBuild/artifact/target/BuildTools.jar
 java -jar -Xmx1G BuildTools.jar
 cowsay Step 2
