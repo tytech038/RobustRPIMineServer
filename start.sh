@@ -1,1 +1,1 @@
-java -jar -Xmx2G spigot.jar
+java -jar -Xmx2G spigot.jar nogui
